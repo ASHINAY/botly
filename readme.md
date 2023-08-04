@@ -39,7 +39,7 @@ To run the bot, you'll need the following:
    SLACK_BOT_TOKEN=your_slack_bot_token_here
    SLACK_SIGNING_SECRET=your_slack_signing_secret_here
 
-   Replace your_slack_bot_token_here and your_slack_signing_secret_here with your actual bot token and signing secret obtained from your Slack app's settings.
+Replace your_slack_bot_token_here and your_slack_signing_secret_here with your actual bot token and signing secret obtained from your Slack app's settings.
 
 5. Running the Bot
    To start the bot, use the following command in the terminal:
